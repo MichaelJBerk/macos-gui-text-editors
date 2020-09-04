@@ -7,7 +7,7 @@ If you have an other ideas/suggestions, please open a PR and suggest them.
     - Free, but nags you every now and again if you don't pay $80
     - Cross-Platform (Windows, macOS, Linux)
     - Lots of packages available
-    - Default color palette practically screams at you
+    - IMO, Default color palette practically screams at you, making it very easy to read
 - [Visual Studio Code](https://code.visualstudio.com)
     - Free
     - Fits somewhere between a proper IDE and a text editor
