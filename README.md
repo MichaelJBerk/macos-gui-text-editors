@@ -3,15 +3,19 @@
 I've compiled a list of general-purpose<sup>[1](#1)</sup> GUI text editors/IDEs for macOS. I've spent some amount of time playing around with each of these<sup>[2](#1)</sup> to get an idea for what they offer.
 If you have an other ideas/suggestions, please open a PR and suggest them.
 
-- [BBEdit](https://www.barebones.com/products/bbedit/)
-    - Offers a subset of features for free, with a 14-day trial for the full version
-    - $50 for the latest major release from [Barebones.com](barebones.com), or as a subscription from the App Store
-        - Access to the major version without paying extra to upgrade
-        - $40 a year, or $4 a month
-    - Been around since approximately the dawn of time (more or less)
-    - Best at conforming to MacOS' look and feel (IMO)
-    - Can be extended through scripts, etc.
-    - Lots of features relating to text manipulation, regex, etc.
+- [Sublime Text 3](https://www.sublimetext.com)
+    - Free, but nags you every now and again if you don't pay $80
+    - Cross-Platform (Windows, macOS, Linux)
+    - Lots of packages available
+    - Default color palette practically screams at you
+- [Visual Studio Code](https://code.visualstudio.com)
+    - Free
+    - Fits somewhere between a proper IDE and a text editor
+    - Cross Platform (Windows, macOS, Linux)
+    - [Open Source](https://github.com/microsoft/vscode)
+    - Easy to install browse and extensions for different languages
+    - Non-native UI can get quite sluggish at times
+        - Under-the-hood, it's technically just a browser in disguise.
 - [TextMate](https://macromates.com)
     - Free
     - Extensible using TextMate Bundles
@@ -33,20 +37,16 @@ If you have an other ideas/suggestions, please open a PR and suggest them.
         - Very easy to run code within the app without having to go to the command line
     - Not very extensible
     - Does not offer a CLI extension
-- [Sublime Text 3](https://www.sublimetext.com)
-    - Free, but nags you every now and again if you don't pay $80
-    - Cross-Platform (Windows, macOS, Linux)
-    - Lots of packages available
-    - Default color palette practically screams at you
-- [Visual Studio Code](https://code.visualstudio.com)
-    - Free
-    - Fits somewhere between a proper IDE and a text editor
-    - Cross Platform (Windows, macOS, Linux)
-    - [Open Source](https://github.com/microsoft/vscode)
-    - Easy to install browse and extensions for different languages
-    - Non-native UI can get quite sluggish at times
-        - Under-the-hood, it's technically just a browser in disguise.
-
+- [BBEdit](https://www.barebones.com/products/bbedit/)
+    - Offers a subset of features for free, with a 14-day trial for the full version
+    - $50 for the latest major release from [Barebones.com](barebones.com), or as a subscription from the App Store
+        - Access to the major version without paying extra to upgrade
+        - $40 a year, or $4 a month
+    - Been around since approximately the dawn of time (more or less)
+    - Best at conforming to MacOS' look and feel (IMO)
+    - Can be extended through scripts, etc.
+    - Lots of features relating to text manipulation, regex, etc.
+    
 Other text editors of note that I haven't tried:
 - [Atom](https://atom.io)
     - Free
